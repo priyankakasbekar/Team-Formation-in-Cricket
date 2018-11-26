@@ -1,0 +1,121 @@
+Source,Target,Weight
+Mohammad Shahzad,Asghar Stanikzai,4
+Mohammad Shahzad,Karim Sadiq,1
+Mohammad Shahzad,Mohammad Nabi,4
+Mohammad Shahzad,Gulbadin Naib,3
+Mohammad Shahzad,Najibullah Zadran,4
+Mohammad Shahzad,Dawlat Zadran,2
+Mohammad Shahzad,Shafiqullah,3
+Mohammad Shahzad,Shapoor Zadran,2
+Mohammad Shahzad,Noor Ali,3
+Mohammad Shahzad,Samiullah Shenwari,4
+Mohammad Shahzad,Hamid Hassan,2
+Mohammad Shahzad,Nawroz Mangal,0
+Usman Ghani,Asghar Stanikzai,2
+Usman Ghani,Karim Sadiq,0
+Usman Ghani,Mohammad Nabi,2
+Usman Ghani,Gulbadin Naib,2
+Usman Ghani,Najibullah Zadran,2
+Usman Ghani,Dawlat Zadran,0
+Usman Ghani,Shafiqullah,2
+Usman Ghani,Shapoor Zadran,1
+Usman Ghani,Noor Ali,0
+Usman Ghani,Samiullah Shenwari,2
+Usman Ghani,Hamid Hassan,1
+Usman Ghani,Nawroz Mangal,0
+Asghar Stanikzai,Karim Sadiq,1
+Asghar Stanikzai,Mohammad Nabi,7
+Asghar Stanikzai,Gulbadin Naib,6
+Asghar Stanikzai,Najibullah Zadran,7
+Asghar Stanikzai,Dawlat Zadran,3
+Asghar Stanikzai,Shafiqullah,6
+Asghar Stanikzai,Shapoor Zadran,4
+Asghar Stanikzai,Noor Ali,5
+Asghar Stanikzai,Samiullah Shenwari,6
+Asghar Stanikzai,Hamid Hassan,2
+Asghar Stanikzai,Nawroz Mangal,0
+Karim Sadiq,Mohammad Nabi,1
+Karim Sadiq,Gulbadin Naib,0
+Karim Sadiq,Najibullah Zadran,1
+Karim Sadiq,Dawlat Zadran,1
+Karim Sadiq,Shafiqullah,1
+Karim Sadiq,Shapoor Zadran,0
+Karim Sadiq,Noor Ali,1
+Karim Sadiq,Samiullah Shenwari,1
+Karim Sadiq,Hamid Hassan,1
+Karim Sadiq,Nawroz Mangal,0
+Mohammad Nabi,Gulbadin Naib,6
+Mohammad Nabi,Najibullah Zadran,7
+Mohammad Nabi,Dawlat Zadran,3
+Mohammad Nabi,Shafiqullah,6
+Mohammad Nabi,Shapoor Zadran,4
+Mohammad Nabi,Noor Ali,5
+Mohammad Nabi,Samiullah Shenwari,6
+Mohammad Nabi,Hamid Hassan,2
+Mohammad Nabi,Nawroz Mangal,0
+Gulbadin Naib,Najibullah Zadran,6
+Gulbadin Naib,Dawlat Zadran,2
+Gulbadin Naib,Shafiqullah,5
+Gulbadin Naib,Shapoor Zadran,4
+Gulbadin Naib,Noor Ali,4
+Gulbadin Naib,Samiullah Shenwari,5
+Gulbadin Naib,Hamid Hassan,1
+Gulbadin Naib,Nawroz Mangal,0
+Najibullah Zadran,Dawlat Zadran,3
+Najibullah Zadran,Shafiqullah,6
+Najibullah Zadran,Shapoor Zadran,4
+Najibullah Zadran,Noor Ali,5
+Najibullah Zadran,Samiullah Shenwari,6
+Najibullah Zadran,Hamid Hassan,2
+Najibullah Zadran,Nawroz Mangal,0
+Mirwais Ashraf,Dawlat Zadran,0
+Mirwais Ashraf,Shafiqullah,0
+Mirwais Ashraf,Shapoor Zadran,0
+Mirwais Ashraf,Noor Ali,0
+Mirwais Ashraf,Samiullah Shenwari,0
+Mirwais Ashraf,Hamid Hassan,0
+Mirwais Ashraf,Nawroz Mangal,0
+Rashid Khan,Dawlat Zadran,3
+Rashid Khan,Shafiqullah,6
+Rashid Khan,Shapoor Zadran,4
+Rashid Khan,Noor Ali,5
+Rashid Khan,Samiullah Shenwari,6
+Rashid Khan,Hamid Hassan,2
+Rashid Khan,Nawroz Mangal,0
+Dawlat Zadran,Shafiqullah,2
+Dawlat Zadran,Shapoor Zadran,1
+Dawlat Zadran,Noor Ali,3
+Dawlat Zadran,Samiullah Shenwari,3
+Dawlat Zadran,Hamid Hassan,1
+Dawlat Zadran,Nawroz Mangal,0
+Amir Hamza,Shafiqullah,5
+Amir Hamza,Shapoor Zadran,4
+Amir Hamza,Noor Ali,4
+Amir Hamza,Samiullah Shenwari,5
+Amir Hamza,Hamid Hassan,1
+Amir Hamza,Nawroz Mangal,0
+Shafiqullah,Shapoor Zadran,3
+Shafiqullah,Noor Ali,4
+Shafiqullah,Samiullah Shenwari,5
+Shafiqullah,Hamid Hassan,2
+Shafiqullah,Nawroz Mangal,0
+Sayed Shirzad,Shapoor Zadran,0
+Sayed Shirzad,Noor Ali,0
+Sayed Shirzad,Samiullah Shenwari,0
+Sayed Shirzad,Hamid Hassan,0
+Sayed Shirzad,Nawroz Mangal,0
+Shapoor Zadran,Noor Ali,3
+Shapoor Zadran,Samiullah Shenwari,3
+Shapoor Zadran,Hamid Hassan,0
+Shapoor Zadran,Nawroz Mangal,0
+Noor Ali,Samiullah Shenwari,4
+Noor Ali,Hamid Hassan,1
+Noor Ali,Nawroz Mangal,0
+Samiullah Shenwari,Hamid Hassan,2
+Samiullah Shenwari,Nawroz Mangal,0
+Hamid Hassan,Nawroz Mangal,0
+Najeeb Tarakai,Nawroz Mangal,0
+Karim Janat,Nawroz Mangal,0
+Fareed Ahmad,Nawroz Mangal,0
+Aftab Alam,Nawroz Mangal,0
+Hazratullah Zazai,Nawroz Mangal,0
